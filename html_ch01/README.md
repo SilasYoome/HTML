@@ -62,7 +62,7 @@ HTML的超連結是宣告在```<a>```的元素之中
 之後會學到更多關於屬性的相關內容   
 
 ## HTML Image
-HTML的圖片是顯示在```<img>的元素裡面
+HTML的圖片是顯示在```<img>```的元素裡面
 ```<img>```之中會有文件地址```src```、當圖片無法顯示時，代替用來顯示的文字```alt```、寬度```width```與高度```height```等元素來修改圖片的附加內容
 ```html
 <img src="w3schools.jpg" alt="W2Schools.com" width="104 height="142>
